@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Glafira
+# Foobar
+
+### Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , my name is Glafira
 #### and I am a Front End Student
 
 I study FrontEnd Developement at the Medieinstitutet in Malmo, Sweden. I am just at the beginning of my journey, but I like to work on various interesting and fun projects. In each of my projects, I try to use new skills, imagination and a little humor.
