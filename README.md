@@ -3,11 +3,11 @@
 ### Hi everyone  , my name is Glafira
 #### and I am a Frontend developer student
 
-I study at the Medieinstitutet in Malmo, Sweden. I am just at the beginning of my journey, but I like to work on various interesting and fun projects. In each of my projects, I try to use new skills, imagination and a little humor.
+I study at the Medieinstitutet in Malmo, Sweden. I like to work on various interesting and fun projects. In each of my projects, I try to use new skills, imagination and a little humor.
 
 I am also a freelance real estate photographer and this is also my great passion.
 
-Skills: **JS / HTML / CSS**
+Skills: **JS / HTML / CSS / Bootstrap / React / TypeScript**
 
 ---
 
