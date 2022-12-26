@@ -7,7 +7,7 @@ I study at the Medieinstitutet in Malmo, Sweden. I like to work on various inter
 
 I am also a freelance real estate photographer and this is also my great passion.
 
-Skills: **JS / HTML / CSS / Bootstrap / React / TypeScript**
+Skills: **JS / HTML / CSS / Bootstrap / Material UI / React / TypeScript**
 
 ---
 
