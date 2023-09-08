@@ -8,8 +8,6 @@ I am deeply passionate about my work and deliver high-quality results in every t
 
 I am also a freelance real estate photographer and this is also my great passion.
 
-Skills: [<img src='https://img.icons8.com/officel/16/react.png' height='40'>] / [<img src='https://img.icons8.com/officel/16/react.png' height='40'>] / TypeScript 
-
 ---
 
 [<img src='https://img.icons8.com/fluency/48/000000/github.png' alt='github' height='40'>](https://github.com/glafver)  [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/glafver/)  [<img src='https://img.icons8.com/color/48/000000/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/glafver)  [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/glafver/)  
