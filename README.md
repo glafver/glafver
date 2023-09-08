@@ -16,7 +16,6 @@ Skills: **React / Material UI / TypeScript **
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glafver)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Profile views](https://gpvc.arturio.dev/glafver)
 
 
 
