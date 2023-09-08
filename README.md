@@ -1,13 +1,14 @@
 
 
 ### Hi everyone  , my name is Glafira
-#### and I am a Frontend developer student
 
-I study at the Medieinstitutet in Malmo, Sweden. I like to work on various interesting and fun projects. In each of my projects, I try to use new skills, imagination and a little humor.
+I am a highly motivated Frontend Developer with a passion for solving problems, bringing a creative mindset to my work and highly attentive to visual details. 
+
+I am deeply passionate about my work and deliver high-quality results in every task I undertake. With precise attention to details and efficient logical solutions, I produce clean, understandable, and well-optimized code. 
 
 I am also a freelance real estate photographer and this is also my great passion.
 
-Skills: **JS / HTML / CSS / Bootstrap / Material UI / React / TypeScript / React Testing Library**
+Skills: **React / Material UI / TypeScript **
 
 ---
 
