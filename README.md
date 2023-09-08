@@ -8,7 +8,7 @@ I am deeply passionate about my work and deliver high-quality results in every t
 
 I am also a freelance real estate photographer and this is also my great passion.
 
-Skills: **React / Material UI / TypeScript **
+Skills: [<img src='https://img.icons8.com/officel/16/react.png' height='40'>] / [<img src='https://img.icons8.com/officel/16/react.png' height='40'>] / TypeScript 
 
 ---
 
