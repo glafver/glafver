@@ -1,6 +1,6 @@
 
 
-### Hi everyone  , my name is Glafira
+Hi everyone, my name is Glafira
 
 I am a highly motivated Frontend Developer with a passion for solving problems, bringing a creative mindset to my work and highly attentive to visual details. 
 
