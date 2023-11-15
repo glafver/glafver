@@ -6,7 +6,7 @@ I am a highly motivated Frontend Developer with a passion for solving problems, 
 
 I am deeply passionate about my work and deliver high-quality results in every task I undertake. With precise attention to details and efficient logical solutions, I produce clean, understandable, and well-optimized code. 
 
-I am also a freelance real estate photographer and this is also my great passion.
+In addition am a freelance real estate photographer and this is also my great passion.
 
 ---
 
