@@ -1,4 +1,4 @@
-### Hi, I'm Glafira👋
+## Hi, I'm Glafira👋
 
 I'm a full-stack developer based in Malmö, Sweden, currently working at Axis Communications.
 
@@ -8,7 +8,7 @@ Outside of tech, I work as a freelance interior photographer — a creative purs
 
 I'm always curious about new ideas, technologies, and opportunities to collaborate. Feel free to connect with me!
 
-Tech stack: React · TypeScript · JavaScript · C# · .NET · Node.js · Git
+### React · TypeScript · JavaScript · C# · .NET · Node.js · Git
 
 ---
 
