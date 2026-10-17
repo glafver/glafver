@@ -1,12 +1,14 @@
+### Hi, I'm Glafira👋
 
+I'm a full-stack developer based in Malmö, Sweden, currently working at Axis Communications.
 
-Hi everyone, my name is Glafira
+I build web applications with React, TypeScript, C#/.NET, and Node.js, with an interest in clean architecture, thoughtful UI, and solving problems that don't come with obvious answers.
 
-I am a highly motivated Frontend Developer with a passion for solving problems, bringing a creative mindset to my work and highly attentive to visual details. 
+Outside of tech, I work as a freelance interior photographer — a creative pursuit that shapes my eye for composition, detail, and visual balance.
 
-I am deeply passionate about my work and deliver high-quality results in every task I undertake. With precise attention to details and efficient logical solutions, I produce clean, understandable, and well-optimized code. 
+I'm always curious about new ideas, technologies, and opportunities to collaborate. Feel free to connect with me!
 
-In addition am a freelance real estate photographer and this is also my great passion.
+Tech stack: React · TypeScript · JavaScript · C# · .NET · Node.js · Git
 
 ---
 
